@@ -6,7 +6,7 @@ This program was created using Node.js and React, so this application is predomi
  ------------------------------------------------------------------------------------
 
 To run the program, download the repository and enter 'npm i' in the terminal to download the necessary dependencies.
-Create a '.env' file in the './server/routes' folder, and make a variable for your MongoDB cluster url:
+Create a '.env' file in the './server' folder, and make a variable for your MongoDB cluster url:
 
 CONNECTION_URL = "the url goes here without the quotes"
 
